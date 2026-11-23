@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 104" role="img" aria-label="Data foundations for AI: Databricks lakehouse, RAG pipelines, Azure AI Search"><rect x="1" y="1" width="408" height="102" rx="14" fill="#0d1629" stroke="#24365c" stroke-width="1.5"/><rect x="18" y="26" width="52" height="52" rx="13" fill="#242938"/><svg x="29" y="37" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#FFB454" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="12" cy="5" rx="9" ry="3" />
+  <path d="M3 5V19A9 3 0 0 0 21 19V5" />
+  <path d="M3 12A9 3 0 0 0 21 12" />
+</svg><text x="86" y="40" font-size="15.5" font-weight="700" fill="#ffffff" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">Data foundations for AI</text><text x="86" y="62" font-size="12" fill="#a9bbd8" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">Databricks lakehouse, RAG pipelines,</text><text x="86" y="80" font-size="12" fill="#a9bbd8" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">Azure AI Search</text></svg>
